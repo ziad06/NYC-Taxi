@@ -11,7 +11,9 @@ Second, I extract the data by inspecting the website that contains the dataset b
 
 Finally, I did some aggregation functions to return the greatest 10 number of trips.
 
-To run the code: 1- Download the redegal.py script
+To run the code:
+
+1- Download the redegal.py script
 
 2- Open a terminal and type the word python, or python3 if you have both versions, followed by the path to script, just like this:
 

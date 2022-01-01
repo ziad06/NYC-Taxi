@@ -1,4 +1,4 @@
-# Redegal
+# nyc_taxi
 I used python language to solve this problem. 
 First, I imported the libraries needed to solve this problem. Some of them are the third library, such as:
 1- Requests: The requests module allows you to send HTTP requests using Python. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc.). 
@@ -13,8 +13,8 @@ Finally, I did some aggregation functions to return the greatest 10 number of tr
 
 To run the code:
 
-1- Download the redegal.py script
+1- Download the nyc_taxi.py script
 
 2- Open a terminal and type the word python, or python3 if you have both versions, followed by the path to script, just like this:
 
-python3 redegal.py
+python3 nyc_taxi.py

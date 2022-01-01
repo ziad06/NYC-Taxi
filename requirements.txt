@@ -1,0 +1,8 @@
+# Requirements.txt contains a list of libraries for the Python Application #
+
+bs4==4.9.3
+requests==2.25.1
+pyspark==3.2.0
+
+
+

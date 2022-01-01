@@ -13,6 +13,6 @@ Finally, I did some aggregation functions to return the greatest 10 number of tr
 
 To run the code: 1- Download the redegal.py script
 
-2- Open a terminal and type in the word python, or python3 if you have both versions, followed by the path to script, just like this:
+2- Open a terminal and type the word python, or python3 if you have both versions, followed by the path to script, just like this:
 
 python3 redegal.py

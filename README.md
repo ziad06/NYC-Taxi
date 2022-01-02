@@ -15,6 +15,6 @@ To run the code:
 
 1- Download the nyc_taxi.py script
 
-2- Open a terminal and type the word python, or python3 if you have both versions, followed by the path to script, just like this:
+2- Open a terminal and type the word python, or python3 if you have both versions, followed by the script path, just like this:
 
-python3 nyc_taxi.py
+python /"script_path"/nyc_taxi.py
